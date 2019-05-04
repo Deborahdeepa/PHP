@@ -1,9 +1,3 @@
-<?php 
-
-
-	
-	?>
-	
 <!DOCTYPE html>
 <html>
 <body>
@@ -11,9 +5,6 @@
 <h2>Task 1</h2>
 <p> I have an xml file. Click the convert button to convert the xml data into csv file. check the same folder having the csv file with the data</p>
   
-
-
-
 <form id="myForm" action="index.php" method="post">
  <input name="convert" type="submit" value="Convert">
 <br>
@@ -24,8 +15,6 @@
   String 1:<br>
   <input type="text" name="string1">
   <br> <br> <br>
-  
-   
   <input type="submit" value="string reverse" name="rev">
    <input type="submit" value="string upper" name="upper">
     <input type="submit" value="string shuffle" name="shuffle">
