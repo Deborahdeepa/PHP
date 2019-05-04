@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<employee>
+<details>
+<emp_id>1500</emp_id>
+<f_name>john</f_name>
+<l_name>doe</l_name>
+<phone>1111111111</phone>
+<address>xxxx</address>
+<city>madurai</city>
+<state>Tamil Nadu</state>
+<pincode>625009</pincode>
+</details>
+<details>
+<emp_id>14000</emp_id>
+<f_name>vimal</f_name>
+<l_name>raj</l_name>
+<phone>2222222222</phone>
+<address>yyyy</address>
+<city>Ramnad</city>
+<state>Tamil Nadu</state>
+<pincode>600089</pincode>
+</details> 
+<details>
+<emp_id>5300</emp_id>
+<f_name>anand</f_name>
+<l_name>kumar</l_name>
+<phone>3333333333</phone>
+<address>zzzz</address>
+<city>chennai</city>
+<state>Tamil Nadu</state>
+<pincode>600009</pincode>
+</details>
+</employee>
